@@ -1,4 +1,4 @@
-# Exercicios Aula 06 Python Curso em Video - Criador Gustavo Guanabara
+# Exercicios Aula 05 Python Curso em Video - Criador Gustavo Guanabara
 # Desenvolvedor: Wanderson Pereira
 
 
